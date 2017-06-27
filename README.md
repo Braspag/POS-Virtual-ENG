@@ -1,5 +1,5 @@
 
-<table width='100%' border="0"><tr><td align="center"><img src="/POS-Virtual-ENG/source/images/logo-braspag.PNG" border="0"></td></tr></table>
+<table width='100%' border="0"><tr><td align="center"><img src="/POS-Virtual-ENG/source/images/logo-braspag.png" border="0"></td></tr></table>
 
 # Creating a group
 
